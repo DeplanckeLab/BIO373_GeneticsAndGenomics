@@ -7,7 +7,7 @@ They will be split as follows:
 
 ## Why Python?
 Python and R are the two main languages used for bioinformatics analyses.
-We chose Python over R in 2022, since other courses are also using Python (Machine Learning, ...). This makes it easier for the students to grasp the concepts of bioinformatics, with the removed burden to have to learn R and its syntax.
+We chose Python over R in 2022, since other courses are also using Python (Machine Learning, ...). This makes it easier for the students to grasp the concepts of bioinformatics, while removing the burden of having to learn R and its syntax.
 
 ## Software requirements
 Before starting this part of the course, you will need to install the following softwares on your computer:
