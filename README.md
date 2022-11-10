@@ -1,4 +1,4 @@
-# [https://edu.epfl.ch/coursebook/en/genetics-and-genomics-BIO-373](BIO373 - Genetics & Genomics)
+# [BIO373 - Genetics & Genomics](https://edu.epfl.ch/coursebook/en/genetics-and-genomics-BIO-373)
 After the main genetics and genomics lectures, the Genetics & Genomics class has 6 sessions dedicated to hands-on bioinformatics analyses in Python.
 They will be split as follows:
 - Two sessions (4h each) dedicated to an Introduction to Python and data analysis. And some hands-on exercises with a famous genetics example.
