@@ -18,7 +18,7 @@ Then, you will need to install some packages for Python. Please check out [lesso
 
 ## Course support for hands-on projects in Python
 The supports are made with Jupyter Notebook, and are also listed on the main [web page](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/):
-- 01.introduction_to_jupyter.ipynb -- contains short installation instructions for Anaconda and a short overview of the Jupyter Notebook interface.
-- 02.a.extended_introduction_to_python.ipynb -- contains an extensive introduction into basic Python functionality. Is designed for students with no prior experience with Python.
-- 02.b.quick_python_overview.ipynb -- contains an overview of basic Python functionality. Is useful for students who want to refresh their knowledge of Python syntax and functionality.
-- 03.useful_python_packages_and_examples.ipynb -- contains an overview of the most frequently used packaged for data analysis with Iris dataset-based examples.
+- [01.introduction_to_jupyter.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/01.introduction_to_jupyter.ipynb) -- contains short installation instructions for Anaconda and a short overview of the Jupyter Notebook interface.
+- [02.a.extended_introduction_to_python.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/02.a.extended_introduction_to_python.ipynb) -- contains an extensive introduction into basic Python functionality. Is designed for students with no prior experience with Python.
+- [02.b.quick_python_overview.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/02.b.quick_python_overview.ipynb -- contains an overview of basic Python functionality. Is useful for students who want to refresh their knowledge of Python syntax and functionality.
+- [03.useful_python_packages_and_examples.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/03.useful_python_packages_and_examples.ipynb) -- contains an overview of the most frequently used packaged for data analysis with Iris dataset-based examples.
