@@ -14,8 +14,7 @@ As described in the [first lesson 01.](https://deplanckelab.github.io/BIO373_Gen
 To get and use Jupyter notebooks, we recommend Anaconda distribution, which is available for the most common operational systems. To install Anaconda, check out [this link](https://docs.anaconda.com/anaconda/install/).
 After installing, you can either open the Jupyter via the app, or execute the jupyter notebook command in the terminal to start a Jupyter server.
 
-Then, you will need to install the following packages for Python:
-- ...
+Then, you will need to install some packages for Python. Please check out [lesson 03.](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/03.useful_python_packages_and_examples.html) to know how to proceed.
 
 ## Course support for hands-on projects in Python
 The supports are made with Jupyter Notebook, and are in the following order:
