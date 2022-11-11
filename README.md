@@ -17,5 +17,4 @@ After installing, you can either open the Jupyter via the app, or execute the ju
 Then, you will need to install some packages for Python. Please check out [lesson 03.](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/03.useful_python_packages_and_examples.html) to know how to proceed.
 
 ## Course support for hands-on projects in Python
-The supports are made with Jupyter Notebook, and are in the following order:
-- 
+The supports are made with Jupyter Notebook, and are listed on the main [web page](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/).
