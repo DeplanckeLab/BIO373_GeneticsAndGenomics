@@ -17,10 +17,8 @@ After installing, you can either open the Jupyter via the app, or execute the ju
 Then, you will need to install some packages for Python. Please check out [lesson 03.](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/03.useful_python_packages_and_examples.html) to know how to proceed.
 
 ## Course support for hands-on projects in Python
-The supports are made with Jupyter Notebook, and are listed on the main [web page](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/).
-
-Supporting notebooks content:
-- 01.introduction_to_jupyter.ipynb -- contains short installation instructions for Anaconda and a short overview of the Jupyter Notebook interface.
-- 02.0.introduction_to_python.ipynb -- contains an extensive introduction into basic Python functionality. Is designed for students with no prior experience with Python.
-- 02.1.quick_python_overview.ipynb -- contains an overview of basic Python functionality. Is useful for students who want to refresh their knowledge of Python syntax and functionality.
-- 03.useful_python_packages_and_examples.ipynb -- contains an overview of the most frequently used packaged for data analysis with Iris dataset-based examples.
+The supports are made with Jupyter Notebook, and are also listed on the main [web page](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/):
+- [01.introduction_to_jupyter.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/01.introduction_to_jupyter.ipynb) -- contains short installation instructions for Anaconda and a short overview of the Jupyter Notebook interface.
+- [02.a.extended_introduction_to_python.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/02.a.extended_introduction_to_python.ipynb) -- contains an extensive introduction into basic Python functionality. Is designed for students with no prior experience with Python.
+- [02.b.quick_python_overview.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/02.b.quick_python_overview.ipynb) -- contains an overview of basic Python functionality. Is useful for students who want to refresh their knowledge of Python syntax and functionality.
+- [03.useful_python_packages_and_examples.ipynb](https://deplanckelab.github.io/BIO373_GeneticsAndGenomics/03.useful_python_packages_and_examples.ipynb) -- contains an overview of the most frequently used packaged for data analysis with Iris dataset-based examples.
